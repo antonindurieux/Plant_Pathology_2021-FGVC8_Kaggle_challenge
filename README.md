@@ -1,8 +1,10 @@
 # Plant Pathology 2021 - FGVC8
 
-🏗️ This repository is still a **Work In Progress**
+### 🏗️ This repository is still a **Work In Progress**
 
 This repository contains the code for the solution I submitted for the Kaggle [Plant Pathology 2021 challenge](https://www.kaggle.com/c/plant-pathology-2021-fgvc8), which took place from March 15 2021 to May 27 2021. This competition was part of the Fine-Grained Visual Categorization [FGVC8](https://sites.google.com/view/fgvc8) workshop at the Computer Vision and Pattern Recognition Conference [CVPR 2021](http://cvpr2021.thecvf.com/).
+
+A corresponding article can be found on my website here : https://antonindurieux.github.io/portfolio/1_Kaggle_Plant_Pathology_2021_competition/
 
 This competition was a good opportunity to explore some technical topics related to Convolutional Neural Networks such as :
 - How to implement a CNN taking advantage of [TPUs](https://www.kaggle.com/docs/tpu) to speed up the computing steps ;
@@ -63,4 +65,4 @@ On top of the training process optimizations, significant results improvements w
 - 1_resnet50-training.ipynb explains the training of the ResNet50 model in details ;
 - 2_efficientnetB7-training.ipynb contains the code of the EfficientNetB7 model training with only brief explanations as the steps are much the same as for the ResNet50 model ;
 - 3_vit-training.ipynb contains the code of the Vision Transformer model training with only brief explainations as the steps are much the same as for the previous two model ;
-- 4_model_averaging_and_inference.ipynb contains the code of the i
+- 4_model_averaging_and_inference.ipynb contains the code of the inference process.
