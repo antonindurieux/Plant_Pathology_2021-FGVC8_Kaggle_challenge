@@ -31,17 +31,7 @@ The test set used to evaluate the participant submissions was constituted of rou
 
 The pictures were provided in jpeg format of relatively high resolution, lots of them being 2676 x 4000 pixels, but the resolution and aspect ratio could somewhat vary for some images.
 
-<p float="center">
-  <center>
-  <img src="/assets/images/plant_pathology_exemple1.jpg" width="200" />
-  <img src="/assets/images/plant_pathology_exemple2.jpg" width="200" /> 
-  <img src="/assets/images/plant_pathology_exemple3.jpg" width="200" />
-  <img src="/assets/images/plant_pathology_exemple4.jpg" width="200" />
-  <br>
-  <em>Examples of images from the dataset</em></center>
-</p>
-
-The labels were provided in a separate csv file.
+![](Plant_Pathology_2021-FGVC8_Kaggle_challenge/assets/plant_pathology_examples.png)
 
 ## Performance metric
 
