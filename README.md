@@ -49,6 +49,8 @@ On top of the training process optimizations, significant results improvements w
 - Handling the cases were no label has been predicted by the model (probability of every label inferior to the chosen threshold),
 - Test Time Augmentation (see [this article](https://towardsdatascience.com/test-time-augmentation-tta-and-how-to-perform-it-with-keras-4ac19b67fb4d) for a brief explanation on how it works).
 
+![](/assets/plant_pathology_diagram.png)
+
 ## Usage
 
 4 Notebooks are available in this repository :
