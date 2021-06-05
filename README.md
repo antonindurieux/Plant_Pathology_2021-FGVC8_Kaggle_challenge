@@ -54,7 +54,7 @@ On top of the training process optimizations, significant results improvements w
 ## Usage
 
 4 Notebooks are available in this repository :
-- **1_resnet50-training.ipynb** explains the training of the ResNet50 model in details ;
-- **2_efficientnetB7-training.ipynb** contains the code of the EfficientNetB7 model training with only brief explanations as the steps are much the same as for the ResNet50 model ;
-- **3_vit-training.ipynb** contains the code of the Vision Transformer model training with only brief explainations as the steps are much the same as for the previous two model ;
-- **4_model_averaging_and_inference.ipynb** contains the code of the inference process.
+- **1_plant-pathology-2021-fgvc8-resnet50-training.ipynb** explains the training of the ResNet50 model in details ;
+- **2_plant-pathology-2021-fgvc8-efficientnetB7-training.ipynb** contains the code of the EfficientNetB7 model training with only brief explanations as the steps are much the same as for the ResNet50 model ;
+- **3_plant-pathology-2021-fgvc8-vit-training.ipynb** contains the code of the Vision Transformer model training with only brief explainations as the steps are much the same as for the previous two model ;
+- **4_plant-pathology-2021-fgvc8-inference.ipynb** contains the code of the inference process.
