@@ -8,7 +8,7 @@ This competition was a good opportunity to explore some technical topics related
 - How to implement a CNN taking advantage of [TPUs](https://www.kaggle.com/docs/tpu) to speed up the computing steps ;
 - How to build an efficient TensorFlow input pipeline with the [`tf.data` API](https://www.tensorflow.org/guide/data) ;
 - What loss could be suitable for optimizing the F1-score ;
-- What is a Vision Transformer and how to use it ?
+- What are Vision Transformer neural networks.
 
 My solution ranked **11th out of 626 teams** on the public leaderboard, and **36th** on the private leaderboard (**top 6%**).
 
